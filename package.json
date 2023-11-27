@@ -1,6 +1,6 @@
 {
   "devdependencies": {
-    "@vercel/static-build": "^2.0.12"
+    "@vercal/static-build": "^2.0.12"
   }
  
 }
