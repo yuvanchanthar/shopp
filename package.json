@@ -2,4 +2,8 @@
   "devdependencies": {
     "@vercel/static-build": "^2.0.12"
   }
+  "dependencies": {
+  "@vercel/static-build": "github:vercel/static-build"
+}
+
 }
